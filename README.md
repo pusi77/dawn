@@ -1,3 +1,6 @@
+changes made in this fork:
+- removed all crypto stuff
+
 # dawn
 
 <p align="center">
